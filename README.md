@@ -7,6 +7,6 @@ This script summarizes each year of the stock data by
   3. Percentage change
   4. Total volume
   
-  The script also write the summarized data to a summary table. It also conditionally formats the year change. It colors the cell red for negative change and green for positive change.
+  The script also writes the summarized data to a summary table. It also conditionally formats the year change. It colors the cell red for negative change and green for positive change.
   
 Finally, the script iterates through the workbook and excecutes the sub.
